@@ -72,7 +72,7 @@ Si quieres aprender algo, estúdialo. Si quieres entenderlo, escríbelo. Si quie
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="buymeacoffee.com/4xLoff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/4xLoff" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/4xLoff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/4xLoff" /></a></p><br><br>
 
 ---
 
