@@ -20,7 +20,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 - 😄 Soy un profesional altamente capacitado en el campo de la seguridad informática, especializado en la identificación, mitigación y explotación de vulnerabilidades. Con experiencia en pentesting y hacking ético, he desarrollado un manual de gestión de riesgos de seguridad para pequeñas y micro empresas, además he desempeñado el papel de analista de vulnerabilidades y evaluador de software. Me apasiona resolver desafíos de ciberseguridad, así como retos de CTFs de plataformas como Hack The Box, Try Hack Me y VulnHub entre muchas más, actualmente enfocado en la obtención de certificaciones tales como eJPT, eCPPT y OSCP, demostrando mi compromiso con el aprendizaje y el desarrollo en el campo de la seguridad informática..
 
 ```default
-"If you don't want to learn, it's because you don't want to or you don't have internet."(4xL-2022)
+Si quieres aprender algo, estúdialo. Si quieres entenderlo, escríbelo. Si quieres dominarlo, enséñalo.
 ```
 ---
 
